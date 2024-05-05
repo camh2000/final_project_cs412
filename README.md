@@ -1,15 +1,15 @@
-# Weighted Graph Problems (TSP, Longest Path)
+# Weighted Graph Problems (TSP)
 
 ## Overview
 
-This solution provides both exact and approximate algorithms for solving the Traveling Salesman Problem (TSP) and the Longest Path Problem (LPP) on weighted graphs. The solution is implemented in Python.
+This solution provides both exact and approximate algorithms for solving the Traveling Salesman Problem (TSP) on weighted graphs. The solution is implemented in Python.
 
 ## Files
 
 - `exact_solution.py`: Contains the exact solution algorithms.
 - `approximation_solution.py`: Contains the approximation solution algorithms.
 - `test_cases/`: Contains test cases.
-- `run_test_cases.sh`: A shell script for running all test cases.
+- `run.sh`: A shell script for running all test cases.
 
 ## Running the Programs
 
