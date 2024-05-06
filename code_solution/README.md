@@ -26,4 +26,4 @@ python3 exact_solution.py <input_file> tsp
 To run the approximate solution for TSP, use the following command:
 
 ```bash
-python3 approximate_solution.py <input_file> tsp
+python3 approximation_solution.py <input_file> tsp
