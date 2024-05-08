@@ -6,9 +6,10 @@ This solution provides both exact and approximate algorithms for solving the Tra
 
 ## Files
 
-- `exact_solution.py`: Contains the exact solution algorithms.
-- `approximation_solution.py`: Contains the approximation solution algorithms.
-- `test_cases/`: Contains test cases.
+- `exact_solution.py`: Contains the exact solution algorithm.
+- `approximation_solution.py`: Contains the approximation solution algorithm.
+- `generation.py`: Test case generator for creating complete weighted graphs.
+- `test_cases/`: Contains given and generated test cases.
 - `run.sh`: A shell script for running all test cases.
 
 ## Running the Programs

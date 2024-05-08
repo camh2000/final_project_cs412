@@ -1,0 +1,91 @@
+Running Exact Solution for TSP
+Running on test_cases/tsp_10.txt
+186
+a f h b e g c d j i a
+Execution Time: 9123715 nanoseconds
+
+Running on test_cases/tsp_15.txt
+157
+a c b k n i o g d l m j f e h a
+Execution Time: 549184824 nanoseconds
+
+Running on test_cases/tsp_4.txt
+84
+a b d c a
+Execution Time: 30587 nanoseconds
+
+Running on test_cases/tsp_5.txt
+221
+a b c e d a
+Execution Time: 493910 nanoseconds
+
+Running on test_cases/tsp_6.txt
+172
+a c d b f e a
+Execution Time: 614434 nanoseconds
+
+Running on test_cases/tsp_7.txt
+192
+a c b e g f d a
+Execution Time: 749696 nanoseconds
+
+Running on test_cases/tsp_8.txt
+243
+a b f d c h e g a
+Execution Time: 1228958 nanoseconds
+
+Running on test_cases/tsp_9.txt
+192
+a e h d i g b c f a
+Execution Time: 2541161 nanoseconds
+
+Running on test_cases/tsp_given_3.txt
+12
+a b c a
+Execution Time: 14797 nanoseconds
+
+Running Approximation Solution for TSP
+Running on test_cases/tsp_10.txt
+227
+a j i b h f d c g e a
+Execution Time: 504570 nanoseconds
+
+Running on test_cases/tsp_15.txt
+319
+a c b o n i g j f e h m l d k a
+Execution Time: 31418 nanoseconds
+
+Running on test_cases/tsp_4.txt
+120
+a d b c a
+Execution Time: 11742 nanoseconds
+
+Running on test_cases/tsp_5.txt
+221
+a d e c b a
+Execution Time: 12334 nanoseconds
+
+Running on test_cases/tsp_6.txt
+303
+a e f d c b a
+Execution Time: 22683 nanoseconds
+
+Running on test_cases/tsp_7.txt
+227
+a d f g b c e a
+Execution Time: 10880 nanoseconds
+
+Running on test_cases/tsp_8.txt
+285
+a g c h f d b e a
+Execution Time: 13515 nanoseconds
+
+Running on test_cases/tsp_9.txt
+287
+a g i d e c f b h a
+Execution Time: 16431 nanoseconds
+
+Running on test_cases/tsp_given_3.txt
+12
+a b c a
+Execution Time: 9357 nanoseconds

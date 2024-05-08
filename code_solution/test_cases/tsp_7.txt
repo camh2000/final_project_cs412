@@ -1,0 +1,22 @@
+7 21
+a b 11
+a c 32
+a d 8
+a e 53
+a f 28
+a g 67
+b c 9
+b d 70
+b e 20
+b f 69
+b g 19
+c d 36
+c e 95
+c f 77
+c g 87
+d e 93
+d f 6
+d g 50
+e f 45
+e g 80
+f g 37
